@@ -1,0 +1,37 @@
+{
+  "name": "pogosc-website",
+  "version": "0.0.1",
+  "description": "Pokémon GO Sydney City website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pogosc/pogosc.github.io.git"
+  },
+  "keywords": [
+    "fansite",
+    "website",
+    "react",
+    "reactjs",
+    "nextjs"
+  ],
+  "author": "oscarcao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pogosc/pogosc.github.io/issues"
+  },
+  "homepage": "https://github.com/pogosc/pogosc.github.io#readme",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.5.1"
+  }
+}
