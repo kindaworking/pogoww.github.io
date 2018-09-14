@@ -1,30 +1,15 @@
 [
     {
-        "label": "Hatch 5 Eggs (Chansey)",
-        "value": "/static/icons/chansey.png"
+        "label": "Hatch 5 Eggs (Encounter)",
+        "value": "https://serebii.net/pokemongo/pokemon/113.png"
     },
     {
-        "label": "Make a Great Curve Throw (Spinda)",
-        "value": "/static/icons/spinda.png"
+        "label": "Make a Great Curve Throw (Encounter)",
+        "value": "https://serebii.net/pokemongo/pokemon/327.png"
     },
     {
         "label": "Make 3 Great Throws in a row (1 Rare Candy)",
-        "value": "/static/icons/rare-candy.png"
-    },
-    {
-        "label": "Use 10 Berries to help catch Pokemon (Growlithe)",
-        "value": "/static/icons/growlithe.png"
-    },
-    {
-        "label": "Catch 5 Fire-type Pokemon (1 Silver Pinap Berry)",
-        "value": "/static/icons/silver-pinap.png"
-    },
-    {
-        "label": "Evolve a Pokemon (Eevee)",
-        "value": "/static/icons/eevee.png"
-    },
-    {
-        "label": "Make 3 Great Throws (1000 Stardust)",
-        "value": "/static/icons/stardust.png"
+        "value": "https://pokemongohub.net/wp-content/uploads/2017/06/item_1301.png"
+
     }
 ]
